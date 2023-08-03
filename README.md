@@ -19,7 +19,7 @@ medio de transporte y destino final (un contador para los que sean tipo de trans
 nombre es nom (cargue la cadena nom por teclado). Note que ese nombre podría estar varias veces en el vector, y ahora sí se pide acumular todos sus pagos. Si no existe ningún cliente con ese nombre, informe con un mensaje. [Máximo 4 puntos].
 
 6. Grabar en un archivo binario los datos de los registros del arreglo generado en el punto 1 que correspondan a
-paquetes cuyo monto sea mayor a 100000. [Máximo 4 puntos].
+paquetes cuyo monto sea mayor a 100.000 [Máximo 4 puntos].
 
 7. Mostrar el archivo generado en el punto 6. Muestre al final una línea extra indicando el monto acumulado entre
 los registros que se mostraron. [Máximo 4 puntos].
